@@ -1,4 +1,4 @@
-# [Book Store](https://nvier.xyz/book-store/) &middot; [![Author YassineSaber]])
+# [Book Store](https://nvier.xyz/book-store/) &middot;
 
 This is an online book store e-commerce app created using Laravel, React.
 
